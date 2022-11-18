@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwe
 - 👀 I’m interested in ... building software
-- 🌱 I’m currently learning ... Rust and most things web3 (if there is such a thing)
+- 🌱 I’m currently learning (always!)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... I'm @kwe in most places
 
